@@ -2,9 +2,9 @@
 
 >> Programming isn't about what you know; It's about what you can figure out.
 
-### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...☄
+#### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...☄
 
-
+👨🏻‍💻 Tech Skills 🖥
 
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
