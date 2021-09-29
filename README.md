@@ -6,7 +6,7 @@
 
 # ⚙ Tech Skills ⚙
 
-![HTML CSS Javascript](https://www.kindpng.com/picc/m/452-4529239_html-css-and-javascript-logo-html-css-logo.png)
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height = "50" />
 
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
