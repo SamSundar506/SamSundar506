@@ -1,4 +1,6 @@
-### Hi there 👋! I am Sam Sundar ☺
+### Hi there 👋
+
+![Coding](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif)
 
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
