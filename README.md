@@ -7,6 +7,8 @@
 # ⚙ Tech Skills ⚙
 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height = "50" />
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height = "50" />
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" height = "50" />
 
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
