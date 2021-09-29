@@ -9,6 +9,11 @@
 <span><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height = "50" /></span>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height = "50" />
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height = "50" />
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height = "50" />
+<img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" height = "50" />
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height = "50" />
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height = "50" />
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" height = "50" />
 
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
