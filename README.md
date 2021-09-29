@@ -13,7 +13,7 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" height = "50" />
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height = "50" />
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height = "50" />
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" height = "50" />
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" height = "50" />
 
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
