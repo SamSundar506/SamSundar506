@@ -4,7 +4,9 @@
 
 #### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...☄
 
-👨🏻‍💻 Tech Skills 🖥
+# ⚙ Tech Skills ⚙
+
+![HTML CSS Javascript](https://www.kindpng.com/picc/m/452-4529239_html-css-and-javascript-logo-html-css-logo.png)
 
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
