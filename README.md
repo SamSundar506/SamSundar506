@@ -16,14 +16,14 @@
 <img src="https://github.com/SamSundar506/SamSundar506/blob/main/C_C_featuredimage-removebg-preview.png" height = "50" /></span></div></br>
 
 <div align = center>
-<code>
+
   function Will of God in Christ Jesus for you()</br> {
       Rejoice always,</br>
       Pray without ceasing,</br>
       Give Thanks in all circumstances</br>
     }</br>
  {1 Thessalonians 5:16}
-</code>
+
 </div>
 
 ![Coding](https://cdn.pixabay.com/photo/2016/03/23/14/55/matrix-1274888_960_720.png)
