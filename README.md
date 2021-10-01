@@ -1,6 +1,8 @@
 <h1 align=center> Hi there 👋 I am Sam Sundar 💻 </h1>
 
-#### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...☄
+#### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...☄</br>
+
+![Function](https://github.com/SamSundar506/SamSundar506/blob/main/Will%20of%20God.png)
 
 ## ⚙ Tech Skills ⚙
 <div align = center>
@@ -15,19 +17,8 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" height = "50" />
 <img src="https://github.com/SamSundar506/SamSundar506/blob/main/C_C_featuredimage-removebg-preview.png" height = "50" /></span></div></br>
 
-<!-- <div >
-
-  function Will of God in Christ Jesus for you() {</br>
-      Rejoice always,</br>
-      Pray without ceasing,</br>
-      Give Thanks in all circumstances</br>
-    }</br>
- {1 Thessalonians 5:16}
-
-</div> -->
 
 ![Coding](https://cdn.pixabay.com/photo/2016/03/23/14/55/matrix-1274888_960_720.png)
-
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
