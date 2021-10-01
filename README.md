@@ -1,7 +1,5 @@
 <h1 align=center> Hi there 👋 I am Sam Sundar 💻 </h1>
 
->> Programming isn't about what you know; It's about what you can figure out.
-
 #### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...☄
 
 ## ⚙ Tech Skills ⚙
@@ -17,6 +15,16 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" height = "50" />
 <img src="https://github.com/SamSundar506/SamSundar506/blob/main/C_C_featuredimage-removebg-preview.png" height = "50" /></span></div></br>
 
+<div align = center>
+...
+function Will of God in Christ Jesus for you() {
+  Rejoice always,
+  Pray without ceasing,
+  Give Thanks in all circumstances
+  }
+ {1 Thessalonians 5:16}
+...
+</div>
 
 ![Coding](https://cdn.pixabay.com/photo/2016/03/23/14/55/matrix-1274888_960_720.png)
 
