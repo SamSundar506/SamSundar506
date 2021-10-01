@@ -3,7 +3,7 @@
 #### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...☄</br></br>
 
 <div align=center>
-![Function](https://github.com/SamSundar506/SamSundar506/blob/main/Will%20of%20God.png)
+  <img src="https://github.com/SamSundar506/SamSundar506/blob/main/Will%20of%20God.png"/>
 </div>
 
 ## ⚙ Tech Skills ⚙
