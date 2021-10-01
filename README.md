@@ -15,9 +15,9 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" height = "50" />
 <img src="https://github.com/SamSundar506/SamSundar506/blob/main/C_C_featuredimage-removebg-preview.png" height = "50" /></span></div></br>
 
-<div align = center>
+<div >
 
-  function Will of God in Christ Jesus for you()</br> {
+  function Will of God in Christ Jesus for you() {</br>
       Rejoice always,</br>
       Pray without ceasing,</br>
       Give Thanks in all circumstances</br>
