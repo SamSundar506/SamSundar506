@@ -17,7 +17,7 @@
 
 <div align = center>
 <code>
-  function Will of God in Christ Jesus for you() {</br>
+  function Will of God in Christ Jesus for you()</br> {
       Rejoice always,</br>
       Pray without ceasing,</br>
       Give Thanks in all circumstances</br>
