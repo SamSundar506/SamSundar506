@@ -17,11 +17,11 @@
 
 <div align = center>
 <code>
-function Will of God in Christ Jesus for you() {
-  Rejoice always,
-  Pray without ceasing,
-  Give Thanks in all circumstances
-  }
+  function Will of God in Christ Jesus for you() {</br>
+      Rejoice always,</br>
+      Pray without ceasing,</br>
+      Give Thanks in all circumstances</br>
+    }</br>
  {1 Thessalonians 5:16}
 </code>
 </div>
