@@ -4,7 +4,7 @@
 
 <div align=center>
 ![Function](https://github.com/SamSundar506/SamSundar506/blob/main/Will%20of%20God.png)
- </div>
+</div>
 
 ## ⚙ Tech Skills ⚙
 <div align = center>
