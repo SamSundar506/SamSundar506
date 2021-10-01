@@ -21,6 +21,9 @@
 
 
 ![Coding](https://cdn.pixabay.com/photo/2016/03/23/14/55/matrix-1274888_960_720.png)
+
+> God is Good, All the Time
+> All the Time, God is Good
 <!--
 **SamSundar506/SamSundar506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
