@@ -1,6 +1,6 @@
 <h1 align=center> Hi there 👋 I am Sam Sundar 💻 </h1>
 
-#### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...☄</br></br>
+#### A Creative Man who walks around in this world 🌏 with a Strong passion to Invent things which no one ever Imagined of...</br></br>
 
 <div align=center>
   <img src="https://github.com/SamSundar506/SamSundar506/blob/main/Will%20of%20God.png"/>
